@@ -1,6 +1,14 @@
 # 💫 About Me:
-Designing, automating, and operating cloud-native infrastructure on AWS, with a focus on Kubernetes platforms, CI/CD pipelines, Infrastructure as Code, and system reliability at scale.<br>DevOps and platform engineering projects involving Kubernetes, cloud infrastructure, CI/CD automation, Terraform-based IaC, and improving reliability, security, and scalability of production systems.<br>Sharing best practices around large-scale cloud infrastructure, Kubernetes operations, DevOps automation, and improving observability and cost efficiency in production environments.<br>Building and scaling Kubernetes platforms on AWS, CI/CD pipeline design and automation, Infrastructure as Code with Terraform, Monitoring, alerting, and production reliability.<br>I enjoy automating repetitive work so systems can run reliably without constant intervention.
+👋 About Me
+🚀 DevOps Engineer focused on building reliable, scalable, and automated cloud infrastructure. I work primarily with AWS and Kubernetes, designing CI/CD pipelines and Infrastructure as Code to support production-grade systems. I enjoy simplifying complex infrastructure problems and turning them into repeatable, well-documented solutions.
 
+🛠️ Tech Stack
+☁️ Cloud: AWS (EC2, EKS, S3, IAM, CloudWatch)
+⚙️ Containers & Orchestration: Docker, Kubernetes, Helm
+🏗️ Infrastructure as Code: Terraform, CloudFormation
+🔁 CI/CD: GitHub Actions, Jenkins
+📈 Monitoring & Observability: Prometheus, Grafana
+🐧 OS & Scripting: Linux, Bash, Python
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Syed Amrad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrad_sy9d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amrad S) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Syed Amrad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AMRADxchicago) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amradsyed@gmail.com) 
